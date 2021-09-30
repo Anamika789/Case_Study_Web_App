@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Amatic SC', cursive;
+    background: #81D4FA;
+}
+
+#heading
+{
+    font-size: 65px;
+}
+
+#gif{
+    width: 150px;
+    height: 100px;
+}
+
+#h5-1 , #h5-2 , #h4 , #h4-1
+{
+    font-size: 30px;
+}
+
+#div1
+{
+    font-size: 20px;
+}
+  
